@@ -1,3 +1,7 @@
 zig-out
 .zig-cache
 *.txt
+server.o
+server
+client.o
+client
